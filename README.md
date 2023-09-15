@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TeeRenJing
-- 👀 I’m interested in how the web works
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in DevOps and Cloud Computing.
+- 🌱 I’m currently learning AWS.
 - 💞️ I’m looking to collaborate on all sorts of stuff
 - 📫 How to reach me? I have a linkedin account! My contact information is there. 
 - I also have a personal website teerenjing.com. You can drop me your email there for me to contact you. 
