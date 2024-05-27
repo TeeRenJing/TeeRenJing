@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AWS.
 - 💞️ I’m looking to collaborate on all sorts of stuff
 - 📫 How to reach me? I have a linkedin account! My contact information is there. 
-- I also have a personal website teerenjing.com. You can drop me your email there for me to contact you. 
+
 
 <!---
 TeeRenJing/TeeRenJing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
